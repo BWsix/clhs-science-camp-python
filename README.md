@@ -2,11 +2,11 @@
 
 ## 大綱 / 簡報完成進度
 
-1. [python的規則](#rules) [ ]
-1. [變數 / 輸入輸出 / 資料型態](#var_io_type) [ ]
-1. [布林 / if else](#bool_if_else) [ ]
-1. [while loop](#while-loop) [ ]
-1. [猜數字遊戲](#guess_num_game) [ ]
+[ ] [python的規則](#rules)
+[ ] [變數 / 輸入輸出 / 資料型態](#var_io_type)
+[ ] [布林 / if else](#bool_if_else)
+[ ] [while loop](#while-loop)
+[ ] [猜數字遊戲](#guess_num_game)
 
 ## python的規則 <a name = "rules"></a>
 
