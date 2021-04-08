@@ -2,11 +2,11 @@
 
 ## 大綱 / 簡報完成進度
 
-[ ] [python的規則](#rules)
-[ ] [變數 / 輸入輸出 / 資料型態](#var_io_type)
-[ ] [布林 / if else](#bool_if_else)
-[ ] [while loop](#while-loop)
-[ ] [猜數字遊戲](#guess_num_game)
+- [ ] [python的規則](#rules)
+- [ ] [變數 / 輸入輸出 / 資料型態](#var_io_type)
+- [ ] [布林 / if else](#bool_if_else)
+- [ ] [while loop](#while-loop)
+- [ ] [猜數字遊戲](#guess_num_game)
 
 ## python的規則 <a name = "rules"></a>
 
@@ -16,9 +16,9 @@
 
 ## 變數 / 輸入輸出 / 資料型態 <a name = "var_io_type"></a>
 
-- ### 從範例程式初步解釋
+- ### 變數 / print() / input()
 
-  也許這段程式碼直接發給學生
+  ***發下這段程式碼並講解***
 
   ```python
   name = input()
@@ -26,7 +26,10 @@
   ```
 
   1. input()
+
   1. 變數
+    如何取名
+
   1. print()
 
 - ### 型態
