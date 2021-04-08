@@ -4,54 +4,58 @@
 
 - [ ] [python的規則](#rules)
 - [ ] [變數 / 輸入輸出 / 資料型態](#var_io_type)
-- [ ] [布林 / if else](#bool_if_else)
+- [ ] [四則運算](#calculate)
+- [ ] [布林 / if else / 大於小於](#bool_if_else)
 - [ ] [while loop](#while-loop)
 - [ ] [猜數字遊戲](#guess_num_game)
 
 ## python的規則 <a name = "rules"></a>
 
 - 由上至下逐行執行
-
 - "=" 與 "==" 的差異
 
 ## 變數 / 輸入輸出 / 資料型態 <a name = "var_io_type"></a>
 
-- ### 變數 / print() / input()
+### 變數 / print() / input()
 
-  ***發下這段程式碼並講解***
+***最一開始就發下這段程式碼並講解***
 
-  ```python
-  name = input()
-  print('hello', name)
-  ```
+```python
+name = input()
+print(name)
+```
 
-  1. input()
+- input()
+- 變數
+  - **如何取名**
+    - 要取有意義的單字
+    - 避開保留字
+- print()
+  - print(如何印出, 多個東西)
+    - 剛才程式第二行改成 :
 
-  1. 變數
-    如何取名
+    ```python
+    print('hello', name)
+    ```
 
-  1. print()
+### 型態
 
-- ### 型態
+***從剛才的print('hello', name)開始接著講***
 
-  1. str
-  1. int
+- str
+  - 被""包圍
+    - 可以是 '單引號' 或是 "雙引號"
+- int
+- float
 
-- ### 型態的轉換
+### 型態的轉換
 
-  1. int()
+- int()
 
-- ### 題目
-
-  使用者輸入數字，轉換型別，並存入變數
-
-  ```python
-  # answer
-  foo = int(input())
-  ```
+## 四則運算 <a name = "calculate"></a>
 
 
-## 布林 / if else <a name = "bool_if_else"></a>
+## 布林 / if else / 大於小於<a name = "bool_if_else"></a>
 
 
 ## while loop <a name = "while-loop"></a>
