@@ -1,13 +1,13 @@
 # 科學營 - python課程
 
-## 大綱 / 簡報完成進度
+## 大綱
 
-- [ ] [python的規則](#rules)
-- [ ] [變數 / 輸入輸出 / 資料型別](#var_io_type)
-- [ ] [四則運算](#calculate)
-- [ ] [布林 / if else / 大於小於](#bool_if_else)
-- [ ] [while loop](#while-loop)
-- [ ] [猜數字遊戲](#guess_num_game)
+- [python的規則](#rules)
+- [變數 / 輸入輸出 / 資料型別](#var_io_type)
+- [四則運算](#calculate)
+- [布林 / if else / 大於小於](#bool_if_else)
+- [while loop](#while-loop)
+- [猜數字遊戲](#guess_num_game)
 
 ## python的規則 <a name = "rules"></a>
 
